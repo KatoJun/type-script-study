@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KatoJun/type-script-study/issues"
   },
-  "homepage": "https://github.com/KatoJun/type-script-study#readme"
+  "homepage": "https://github.com/KatoJun/type-script-study#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
